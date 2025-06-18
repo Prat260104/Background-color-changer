@@ -22,5 +22,33 @@ A simple and visually appealing React + TailwindCSS app that allows users to cha
 
 ---
 
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Prat260104/background-color-changer.git
+cd background-color-changer
+```
+
+###  2. Install Dependencies
+```bash
+npm install
+```
+
+###  3. Run the App Locally
+```bash
+npm run dev
+```
+
+###  4. Build for Production
+```bash
+npm run build
+```
+
 
 
